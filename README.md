@@ -5,6 +5,11 @@ Digital Away Day is a maven project to generate a day program to accommodate a l
 ### Author
 Istak Muhammad
 
+### MY Understanding and Design
+I have consider the event as one day event where many teams can participate in the Event. 
+So i have created threads to run the task.
+currently i am running thread one after other. we can also run both Threads parallely in this case output whould be more real time.
+
 ### Tech
 
 Deloitte Digital Away Day uses the following technologies:
@@ -54,6 +59,8 @@ Open a terminal and execute these commands to compile and execute:
 $ mvn clean package
 $ mvn exec:java
 ```
+You can also download the Project from the github and open in IntelliJ Idea or Eclipse and by running 
+same above command project will show output.
 
 Output will be shown in the terminal. Find bellow an output example:
 
