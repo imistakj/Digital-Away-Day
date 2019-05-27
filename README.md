@@ -58,6 +58,7 @@ $ mvn exec:java
 Output will be shown in the terminal. Find bellow an output example:
 
 Team : 1
+
 09:00 am : Duck Herding 60
 10:00 am : Laser Clay Shooting 60
 11:00 am : Viking Axe Throwing 60
